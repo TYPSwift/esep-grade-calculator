@@ -1,6 +1,7 @@
 package esepunittests
 type GradeCalculator struct {
 	grades     []Grade
+	pass		bool
 }
 
 type GradeType int
