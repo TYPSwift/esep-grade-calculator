@@ -51,6 +51,12 @@ func (gc *GradeCalculator) GetFinalGrade() string {
 	return "F"
 }
 
+func (gc *GradeCalculator) GetPassFail() bool {
+	gc.pass = gc.calculateNumericalGrade() >= 70
+	return gc.pass
+
+}
+
 func (gc *GradeCalculator) AddGrade(name string, grade int, gradeType GradeType) {
 	switch gradeType {
 	case Assignment:
