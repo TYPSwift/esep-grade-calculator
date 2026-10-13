@@ -1,0 +1,21 @@
+mode: set
+esep/grade-calculator/grade_calculator.go:23.2,24.1 1 1
+esep/grade-calculator/grade_calculator.go:33.2,37.1 1 1
+esep/grade-calculator/grade_calculator.go:41.2,42.1 1 1
+esep/grade-calculator/grade_calculator.go:43.2,43.26 1 1
+esep/grade-calculator/grade_calculator.go:44.3,45.1 1 1
+esep/grade-calculator/grade_calculator.go:45.9,45.33 1 1
+esep/grade-calculator/grade_calculator.go:46.3,47.1 1 1
+esep/grade-calculator/grade_calculator.go:47.9,47.33 1 1
+esep/grade-calculator/grade_calculator.go:48.3,49.1 1 1
+esep/grade-calculator/grade_calculator.go:49.9,49.33 1 1
+esep/grade-calculator/grade_calculator.go:50.3,51.1 1 1
+esep/grade-calculator/grade_calculator.go:53.2,53.12 1 1
+esep/grade-calculator/grade_calculator.go:57.2,57.19 1 1
+esep/grade-calculator/grade_calculator.go:59.3,63.5 1 1
+esep/grade-calculator/grade_calculator.go:65.3,69.5 1 1
+esep/grade-calculator/grade_calculator.go:71.3,75.5 1 1
+esep/grade-calculator/grade_calculator.go:80.2,85.1 5 1
+esep/grade-calculator/grade_calculator.go:88.2,89.31 2 1
+esep/grade-calculator/grade_calculator.go:90.3,91.1 1 1
+esep/grade-calculator/grade_calculator.go:93.2,93.26 1 1
